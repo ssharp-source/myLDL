@@ -1,0 +1,9 @@
+Name: myldl
+Version: 0.1.0
+Date: 2025-08-27
+Author: Steven Sharp
+Maintainer: Steven Sharp
+Title: Simple LDL^T decomposition
+Description: Provides an educational implementation of the LDL decomposition
+ for symmetric matrices, returning L and D such that A = L*D*L'.
+License: GPLv3
